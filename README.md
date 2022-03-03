@@ -1,4 +1,10 @@
-### Hi there 👋
+### Sup 🤘
+
+- ⚡ Electrical Engineering student 👨‍🎓
+- 👨‍💻 Learning programming and all about the tech world 💻
+- 🧠 Passion for learning 📚
+- 🏎️ Gearhead and musician 🎸
+
 
 <!--
 **andre-gsampaio/andre-gsampaio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
